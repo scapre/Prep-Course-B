@@ -15,9 +15,7 @@ function devolverString(str) {
     // "x" e "y" son números
     // Suma "x" e "y" juntos y devuelve el valor
     // Tu código:
-    
-    
-     
+         
   }
   return suma (x + y)
 
